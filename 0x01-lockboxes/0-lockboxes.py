@@ -4,6 +4,7 @@
 Determines if all boxes can be opened given keys within boxes.
 """
 
+
 def canUnlockAll(boxes):
     """
     Checks if all boxes can be unlocked
